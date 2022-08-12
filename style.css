@@ -20,6 +20,18 @@ nav a{
     float: left;
     color:black;
     padding: 20px 30px;
+    text-decoration: none;
     
+}
+nav a:hover{
+    background-color: blue;
+    color: white;
 
+}
+.column{
+    float: left;
+    padding:10px;
+}
+.column.side{
+    width: 100%;
 }
